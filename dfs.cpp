@@ -64,6 +64,8 @@ int main()
 {
     int i,j;
 
+    printf("Please input:\n");
+
     for(i=1;i<=8;i++)
     for(j=1;j<=8;j++)
     cin>>input[i][j];
